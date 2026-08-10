@@ -11,10 +11,10 @@ An interactive Power BI dashboard analyzing 1,000+ bank transactions across mult
 ## 📊 Dashboard Preview
 
 ### Overview Page
-![Overview Page](screenshots/overview-page.png)
+![Overview Page](overview-page.png)
 
 ### Details Page
-![Details Page](screenshots/details-page.png)
+![Details Page](details-page.png)
 
 ---
 
@@ -66,21 +66,6 @@ This dashboard provides a real-time view of bank transaction performance, helpin
 - Full detail table: City, Status, Total Amount, Average Transaction Amount, Fraud %
 
 Both pages include a shared filter panel — Date, City, Account Type, Channel, Status, and Device — with a "Clear All" reset button for easy exploration.
-
----
-
-## 🎨 Design
-
-A dark navy theme with gold and steel-blue accents, inspired by real-world banking dashboard aesthetics — designed for clarity, contrast, and executive-level readability.
-
-| Color | Hex |
-|---|---|
-| Deep Navy | `#0A2647` |
-| Steel Blue | `#144272` |
-| Sky Blue | `#2C74B3` |
-| Alert Red | `#E63946` |
-| Gold Accent | `#C9A227` |
-| Off-White | `#F5F7FA` |
 
 ---
 
